@@ -16,5 +16,5 @@ spec:
         app: webapp
     spec:
       containers:
-      - image: httpd
-        name: httpd
+      - image: nginx
+        name: nginx
